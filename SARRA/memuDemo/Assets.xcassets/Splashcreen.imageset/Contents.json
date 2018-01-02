@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Soft-Cream-Blue-Red-Gradation-Blur-iphone-6-wallpaper-ilikewallpaper_com.jpg",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Soft-Cream-Blue-Red-Gradation-Blur-iphone-6-wallpaper-ilikewallpaper_com-1.jpg",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

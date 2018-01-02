@@ -1,0 +1,6 @@
+framework module Pods_memuDemo {
+  umbrella header "Pods-memuDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
